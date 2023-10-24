@@ -1,0 +1,30 @@
+.card-img-top {
+  transition: all 0.3s ease;
+  width: 20vh;
+  height: 50vh;
+
+}
+
+.card-img-top:hover {
+  scale: calc(1.1);
+}
+
+
+.col-md-4 {
+  padding: 5px;
+
+}
+
+.heading {
+  background-color: rgb(30, 39, 35);
+
+}
+
+h4 {
+  background-color: aliceblue;
+
+}
+
+footer {
+  background-color: black;
+}
